@@ -1,0 +1,103 @@
+
+===== STUDENT INFORMATION SYSTEM =====
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Student
+6. Exit
+Enter choice: 1
+Enter ID: 423
+Enter Name: ajay
+Enter Age: 20
+Enter Grade: 9.81
+Enter Contact: ajk@gmail.com
+Student added successfully!
+
+===== STUDENT INFORMATION SYSTEM =====
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Student
+6. Exit
+Enter choice: 1
+Enter ID: 421
+Enter Name: Arun
+Enter Age: 19
+Enter Grade: 9.5
+Enter Contact: abj@gmail.com
+Student added successfully!
+
+===== STUDENT INFORMATION SYSTEM =====
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Student
+6. Exit
+Enter choice: 2
+ID         Name            Age   Grade   Contact        
+------------------------------------------------------
+423        ajay            20    9.81    ajk@gmail.com  
+421        Arun            19    9.50    abj@gmail.com  
+
+===== STUDENT INFORMATION SYSTEM =====
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Student
+6. Exit
+Enter choice: 3
+Enter Student ID to update: 423
+Enter New Name: Akash
+Enter New Age: 20
+Enter New Grade: 9.21
+Enter New Contact: ak@gmail.com
+Student updated successfully!
+
+===== STUDENT INFORMATION SYSTEM =====
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Student
+6. Exit
+Enter choice: 5
+Search by (1) ID or (2) Name: 2
+Enter Name: Akash
+423        Akash           20    9.21    ak@gmail.com   
+
+===== STUDENT INFORMATION SYSTEM =====
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Student
+6. Exit
+Enter choice: 4
+Enter Student ID to delete: 421
+Student deleted successfully!
+
+===== STUDENT INFORMATION SYSTEM =====
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Student
+6. Exit
+Enter choice: 2
+ID         Name            Age   Grade   Contact        
+------------------------------------------------------
+423        Akash           20    9.21    ak@gmail.com   
+
+===== STUDENT INFORMATION SYSTEM =====
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Student
+6. Exit
+Enter choice: 6
+Exiting... Thank You!
