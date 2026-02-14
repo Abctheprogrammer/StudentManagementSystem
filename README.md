@@ -1,6 +1,7 @@
 # StudentManagementSystem
 A Java console-based Student Information System implementing CRUD operations, OOP principles, input validation, and formatted output using ArrayList.
 Student Information System
+
 📌 Project Overview
 
 The Student Information System is a Java console-based application designed to manage student records efficiently.
